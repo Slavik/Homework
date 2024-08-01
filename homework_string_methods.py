@@ -1,0 +1,6 @@
+name = input("Введите ваш текст тут -> ")
+print(len(name))
+print(name.upper())
+print(name.lower())
+print(name.replace(' ', ''))
+print(name[-1])
